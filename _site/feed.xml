@@ -7,6 +7,17 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Hermit Country is Live</title>
+				<description>&lt;p&gt;The Hermit Country blog is now live. Rather than try to make it awesome and add all the features I want I decided to just use an existing theme (the open source &lt;a href=&quot;https://github.com/dbtek/dbyll&quot;&gt;DBYLL&lt;/a&gt;) and spend more time working on other projects. At some point I will come back to the frontend of this blog and redo it but for now it is very functional and looks nice. It has all the contact information right there and presents everything in an easy to navigate manner. &lt;/p&gt;
+
+&lt;p&gt;This afternoon I’m going to see &lt;a href=&quot;http://www.siff.net/festival-2014/black-coal-thin-ice&quot;&gt;“Black Coal, Thin Ice”&lt;/a&gt; (Dir. Zhang Yang / 張揚) as part of the Seattle International Film Festival. This will be the final film I’m seeing as part of the festival. So far all the screenings I’ve been to at the festival have bad awesome ‘extras’ like actors from the film joing the screening and doing Q&amp;amp;As or having live music accompaniment. Kudos to SIFF for putting on a great festival and giving people some incentives to watch movies at the theater!&lt;/p&gt;
+</description>
+				<pubDate>Sun, 08 Jun 2014 00:00:00 -0700</pubDate>
+				<link>/project%20update/general/2014/06/08/Hermit-country.html</link>
+				<guid isPermaLink="true">/project%20update/general/2014/06/08/Hermit-country.html</guid>
+			</item>
+		
+			<item>
 				<title>Filmlog</title>
 				<description>&lt;p&gt;This is a project I completed a while ago that helps me keep track of the movies I have watched and what I thought about them. There seems to be lots of different options solving this problem but I couldn’t find anything that gave me the exact set of options that I wanted. Most of them were too complicated and the simple ones would often focus on the wrong things (like tracking your DVD Collection rather than what you have watched).&lt;/p&gt;
 
