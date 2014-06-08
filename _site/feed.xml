@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Matt WInchell</title>
+		<description>A Collection of Things</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Filmlog</title>
+				<description>&lt;p&gt;This is a project I completed a while ago that helps me keep track of the movies I have watched and what I thought about them. There seems to be lots of different options solving this problem but I couldn’t find anything that gave me the exact set of options that I wanted. Most of them were too complicated and the simple ones would often focus on the wrong things (like tracking your DVD Collection rather than what you have watched).&lt;/p&gt;
+
+&lt;p&gt;So the &lt;em&gt;Filmlog&lt;/em&gt; project hopes to address my particular needs (and I would imagine the needs of other cinephiles) by allowing you to log the films you have seen with minimal notes and a rating. This allows you to input your viewing notes, search back over them, try to remember the name of that movie with John Wayne you saw two weeks ago, etc. The idea is not to be a full review service (if you really want to write about the movie you can use a blog service), but rather to simply keep track of what it was you saw and provide some basic statistics about your movie watching habits.&lt;/p&gt;
+
+&lt;p&gt;Like I said this project is done and works great being served from my laptop when the only computer I had was my laptop. But now that I have a desktop I would like to be able to access the service without having to turn on my laptop (or to do it remotely from another computer). This means I’m going to come back to this project to get it out on the big world wide web and add user login features so that more people than just myself are able to use the service. I’m pretty excited and thinks it has a lot of potential and other people will be interested in it.&lt;/p&gt;
+
+&lt;p&gt;Here is the roadmap as I see it of some things I need to tackle to accomplish this task and get it running smoothly for lots of people. Again, this for me is a project intended to build my skills and so I don’t remind rewriting things over and over to make them better. I would like to end up with a polished web app I would be proud to show to people.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Port the existing website and SQL database to AWS&lt;/li&gt;
+	&lt;li&gt;Re-write the code to allow for multiple users&lt;/li&gt;
+	&lt;li&gt;Setup Google, Facebook, and Twitter integration to both post stuff to those services as well as allowing users to login with those services&lt;/li&gt;
+	&lt;li&gt;Set up a mobile version of the site&lt;/li&gt;
+	&lt;li&gt;Clean up the code and make sure it works in a variety of browsers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Sat, 07 Jun 2014 00:00:00 -0700</pubDate>
+				<link>/project%20update/filmlog/movies/2014/06/07/Filmlog.html</link>
+				<guid isPermaLink="true">/project%20update/filmlog/movies/2014/06/07/Filmlog.html</guid>
+			</item>
+		
+			<item>
+				<title>Rock Paper Scissors</title>
+				<description>&lt;p&gt;This is a javascript browser game I made that takes the simple Rock Paper Scissors engine and attempts to expand upon it by building the typical ‘free to play’ gameplay elements on top of it. So there would be buyable characters, new skins, etc. but nothing would affect the basic mechanic of Rock, Paper, Scissors.&lt;/p&gt;
+
+&lt;p&gt;I have done two iterations of the game so far and it is playable with a few bugs. I need to do one more complete code re-write to put in place some of the best practices I have been reading about. Currently it is pretty hacked together, but it does work. As this is supposed to be an excersice in learning javascript I’m more concerned than I otherwise would be in completely eliminating bugs from the code and solving all the problems as efficiently as possible.&lt;/p&gt;
+
+&lt;p&gt;The game itself is very simple and uses jquery to manipulate DOM elements. There are still several major features that are lacking before I can completely go public with it and I need to add those in once the code is cleaned up. Here is what I need to do:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Re-write the code as modules.&lt;/li&gt;
+	&lt;li&gt;Set up the code on server and get it public.&lt;/li&gt;
+	&lt;li&gt;Implement sound!&lt;/li&gt;
+	&lt;li&gt;Add a menu system (New Game, Options, Etc.)&lt;/li&gt;
+	&lt;li&gt;Add a payment system to unlock characters!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Fri, 06 Jun 2014 00:00:00 -0700</pubDate>
+				<link>/project%20update/rock%20paper%20scissors/2014/06/06/RPS.html</link>
+				<guid isPermaLink="true">/project%20update/rock%20paper%20scissors/2014/06/06/RPS.html</guid>
+			</item>
+		
+			<item>
+				<title>Hello World!</title>
+				<description>&lt;p&gt;With most things setup I will start documenting some of the projects I’m working on. There are several of them and all are at various stages of development.&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 05 Jun 2014 00:00:00 -0700</pubDate>
+				<link>/general/tasks/2014/06/05/hello-world.html</link>
+				<guid isPermaLink="true">/general/tasks/2014/06/05/hello-world.html</guid>
+			</item>
+		
+	</channel>
+</rss>
